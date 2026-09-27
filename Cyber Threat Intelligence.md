@@ -1,4 +1,4 @@
-# 🚨 README (FIRST): CYBER TECH LABS MAIN DATA GATEWAY
+# Theat Intelligence File
 
 [![License: Proprietary](https://shields.io)](https://github.com)
 [![Security: Monitored](https://shields.io)](https://github.com)
