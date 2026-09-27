@@ -1,4 +1,4 @@
-# Theat Intelligence File
+# Threat Intelligence File
 
 [![License: Proprietary](https://shields.io)](https://github.com)
 [![Security: Monitored](https://shields.io)](https://github.com)
